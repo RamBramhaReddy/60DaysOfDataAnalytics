@@ -7,7 +7,6 @@ Welcome to my repository for the **#60DaysOfDataAnalytics** challenge! This is w
 | Day     | Topics Covered                                    | Details                                  |
 |---------|---------------------------------------------------|------------------------------------------|
 | **1-2** | NumPy Fundamentals: Arrays, Indexing, Slicing     | [View Details](./Day1-2/README.md)       |
-| ...     | ...                                               | ...                                      |
 
 ---
 
@@ -21,4 +20,4 @@ Welcome to my repository for the **#60DaysOfDataAnalytics** challenge! This is w
 
 ## Connect With Me!
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** www.linkedin.com/in/yennam-ram-bramha-reddy
